@@ -1,2 +1,2 @@
 # Lensless Imaging with Caustic Mask
-#### In development
+#### Authors: Sean Farell, Ahmed Imtiaz, Zaid Tasneem
